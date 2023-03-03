@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO BRASÍLIA">
+    <display-name lang="pt">GLOBO BRASÍLIA</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1573490506.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO MINAS GERAIS">
+    <display-name lang="pt">GLOBO MINAS GERAIS</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1637283832.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO RIO DE JANEIRO">
+    <display-name lang="pt">GLOBO RIO DE JANEIRO</display-name>
+    <icon src="https://www.lineup.tv.br/canais/13max.gif|https://www.lineup.tv.br/canais/1642676053.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO SÃO PAULO">
+    <display-name lang="pt">GLOBO SÃO PAULO</display-name>
+    <icon src="https://www.lineup.tv.br/canais/difusorasul.gif|https://www.lineup.tv.br/canais/1617141781.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
